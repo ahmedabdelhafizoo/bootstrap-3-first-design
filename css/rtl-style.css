@@ -1,0 +1,18 @@
+body {
+    font-family: 'Changa', sans-serif;
+}
+.carousel-caption {
+    right: 50%;
+    -webkit-transform: translate(50%, -50%);
+    transform: translate(50%, -50%);
+}
+.carousel-indicators {
+    left: 52%;
+}
+.subscribe .form-control {
+    margin-left: -5px;
+}
+
+.footer .follow-us a {
+    margin: 50px 0 50px 10px;
+}

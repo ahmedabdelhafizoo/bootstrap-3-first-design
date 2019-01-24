@@ -1,0 +1,48 @@
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-menu > .active > a,
+.carousel-indicators .active,
+.testimonials .carousel-control .glyphicon-chevron-left,
+.testimonials .carousel-control .glyphicon-chevron-right,
+.testimonials .carousel-control .icon-prev,
+.testimonials .carousel-control .icon-next,
+.our-plans .plan:hover p,
+.loading-overlay,
+.navbar-inverse .navbar-nav>li>a:before,
+.footer .follow-us a:before,
+.scroll-icon:before,
+.nicescroll-cursors {
+	background-color: #1c92d2 !important;
+}
+
+.our-plans .plan:hover,
+.features .feat:hover {
+	-webkit-box-shadow: 4px 4px 4px #1c92d2;
+	box-shadow: 4px 4px 4px #1c92d2;
+}
+
+.contact-us h2 span,
+.footer h3,
+.our-skills span,
+.our-statistics .stats:hover i,
+.our-statistics h2 span,
+.subscribe h2 span,
+.our-tem .person a:hover,
+.our-tem h2 span,
+.our-plans h2 span,
+.features .feat span,
+.testimonials h2 span,
+.testimonials .carousel-control,
+.about-us span,
+.features h2 span,
+.navbar-brand span,
+.option-box div:last-of-type {
+	color: #1c92d2;
+}
+
+.our-tem .person:hover img {
+	border: 5px solid #1c92d2;
+}
